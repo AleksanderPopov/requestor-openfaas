@@ -1,0 +1,18 @@
+{
+  "name": "function",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc"
+  },
+  "dependencies": {
+    "request": "2.87.0",
+    "typescript": "2.9.1",
+    "@types/request": "2.47.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
